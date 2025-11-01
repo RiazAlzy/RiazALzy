@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I have been doing fullstack developement with Django for my solo startup ColdAgent. I have skills in python and C and I am currently learning Rust. I am also familier with vanilla JavaScript. 
+
+I like doing backend stuff and would like to work at a startup with small team. here is my portfolio: RiazAlzy.github.io
+
+
 <!--
 **RiazAlzy/RiazALzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
