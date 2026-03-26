@@ -1,15 +1,12 @@
 ## Hi there 👋
 
-### I have been doing fullstack developement for my solo projects.
+### I am a recent high school graduate and aspiring Developer specializing in Python and Django. I’ve always been a firm believer in the 'learn-by-building' philosophy, which led me to complete the Open Source Society University (OSSU) curriculum to back up my hands-on projects with a deep understanding of Computer Science. 
 
-### 🔭 I’m currently working on my online brokerage for business & IP transfer.
+### Beyond the code, I previously founded and managed a social media marketing agency. 
 
-### 💬 Contact me here: riazalisekh7@gmail.com
+### These experiences taught me how to bridge the gap between technical work and business growth, and it’s why I’m so focused on writing clean, scalable code that actually solves real-world problems.
 
-### I like doing backend stuff. here is my portfolio: [RiazAlzy.github.io](https://riazalzy.github.io/)
-
-### 🌱 I’m currently learning Rust...
-
+### portfolio: [RiazAlzy.github.io](https://riazalzy.github.io/)
 
 <!--
 **RiazAlzy/RiazALzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
