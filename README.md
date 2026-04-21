@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-#### Software Engineer specializing in Python, FastAPI and Django, building complex backend systems, AI-powered applications, and full-stack web platforms. Currently a Software Engineer at DPS Consulting Group. Completed the Open Source Society University (OSSU) computer science curriculum, with coursework from Harvard, Stanford, MIT, and Princeton. 
+### Software Engineer specializing in Python, FastAPI and Django, building complex backend systems, AI-powered applications, and full-stack web platforms. Currently a Software Engineer at DPS Consulting Group. Completed the Open Source Society University (OSSU) computer science curriculum, with coursework from Harvard, Stanford, MIT, and Princeton. 
 
-#### Beyond the code, I previously founded and managed a social media marketing agency. 
+### Beyond the code, I previously founded and managed a social media marketing agency. 
 
-#### These experiences taught me how to bridge the gap between technical work and business growth, and it’s why I’m so focused on writing clean, scalable code that actually solves real-world problems.
+### These experiences taught me how to bridge the gap between technical work and business growth, and it’s why I’m so focused on writing clean, scalable code that actually solves real-world problems.
 
 ### portfolio: [RiazAlzy.github.io](https://riazalzy.github.io/)
 
