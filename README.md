@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I am a recent high school graduate and aspiring Developer specializing in Python and Django. I’ve always been a firm believer in the 'learn-by-building' philosophy, which led me to complete the Open Source Society University (OSSU) curriculum to back up my hands-on projects with a deep understanding of Computer Science. 
+#### Software Engineer specializing in Python, FastAPI and Django, building complex backend systems, AI-powered applications, and full-stack web platforms. Currently a Software Engineer at DPS Consulting Group. Completed the Open Source Society University (OSSU) computer science curriculum, with coursework from Harvard, Stanford, MIT, and Princeton. 
 
 #### Beyond the code, I previously founded and managed a social media marketing agency. 
 
